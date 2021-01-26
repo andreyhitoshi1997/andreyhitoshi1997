@@ -34,13 +34,16 @@ One thing you should know about me is: I love to learn!
 [![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/andreyhitoshi1997)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/andreyhitoshi1997)
 
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/andreyhitoshi1997)](https://github.com/andreyhitoshi1997)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/andreyhitoshi1997)](https://github.com/andreyhitoshi1997)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/andreyhitoshi1997)
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/andreyhitoshi1997)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/andreyhitoshi1997)
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/andreyhitoshi1997)
+[![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/andreyhitoshi1997)
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/andreyhitoshi1997)
+![](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/andreyhitoshi1997)](https://github.com/andreyhitoshi1997)
-
-
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/andreyhitoshi1997)](https://github.com/andreyhitoshi1997)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/andreyhitoshi1997)](https://github.com/andreyhitoshi1997)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/andreyhitoshi1997)](https://github.com/andreyhitoshi1997)
