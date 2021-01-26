@@ -28,7 +28,7 @@ One thing you should know about me is: I love to learn!
 
 [![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/andreyhitoshi1997)
 [![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/andreyhitoshi1997)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/andreyhitoshi1997)](https://github.com/andreyhitoshi1997)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/andreyhitoshi1997)
 [![TypeScript](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/andreyhitoshi1997)
 [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/andreyhitoshi1997)
 [![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/andreyhitoshi1997)
