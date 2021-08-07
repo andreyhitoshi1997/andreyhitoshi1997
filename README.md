@@ -42,6 +42,10 @@ One thing you should know about me is: I love to learn!
 
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/andreyhitoshi1997)](https://github.com/andreyhitoshi1997)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&link=https://github.com/andreyhitoshi1997)](https://github.com/andreyhitoshi1997)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&link=https://github.com/andreyhitoshi1997)](https://github.com/andreyhitoshi1997)
+[![Android](	https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&link=https://github.com/andreyhitoshi1997)](https://github.com/andreyhitoshi1997)
+
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/andreyhitoshi1997)](https://github.com/andreyhitoshi1997)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/andreyhitoshi1997)](https://github.com/andreyhitoshi1997)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/andreyhitoshi1997)](https://github.com/andreyhitoshi1997)
