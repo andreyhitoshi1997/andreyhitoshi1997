@@ -58,3 +58,8 @@ One thing you should know about me is: I love to learn!
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/andreyhitoshi1997)](https://github.com/andreyhitoshi1997)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
+<div align="center">
+  <a href="https://github.com/andreyhitoshi1997">
+  <img height="160px" display="flex" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andreyhitoshi1997&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160px" display="flex" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andreyhitoshi1997&layout=compact&langs_count=8&theme=algolia"/>
+</div>
