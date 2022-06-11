@@ -60,6 +60,6 @@ One thing you should know about me is: I love to learn!
 
 <div align="center" min-height: 100%;>
   <a href="https://github.com/andreyhitoshi1997">
-  <img height="160px" display="flex" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andreyhitoshi1997&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" align=”left” />
-  <img height="160px" display="flex" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andreyhitoshi1997&layout=compact&langs_count=8&theme=algolia" align=”right” />
+  <img height="160px" display="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andreyhitoshi1997&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="160px" display="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andreyhitoshi1997&layout=compact&langs_count=8&theme=algolia" align=”right” />
 </div>
