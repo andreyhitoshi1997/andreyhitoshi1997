@@ -7,7 +7,7 @@
 <br/>
 
 My Name is Andrey!  
-I am working with QA since 2017, with a small time as Developer(Javascript, Ruby).  
+I am working with QA since 2017.  
 One thing you should know about me is: I love to learn!
 
 - 🔭 I’m currently working as Senior QA at BanQI.
