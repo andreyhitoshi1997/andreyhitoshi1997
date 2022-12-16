@@ -10,13 +10,11 @@ My Name is Andrey!
 I am working with QA since 2017.  
 One thing you should know about me is: I love to learn!
 
-- 🔭 I’m currently working as Senior QA at BanQI.
-- 🌱 I’m currently learning RPA, Machine Learning, Hadoop and Data Science.
-- 💪🏽 I’m looking to collaborate on projects that represent a new challenger to me.
-- 📫 How to reach me: just start with "HI".
-- 🎓 Graduated in Systems Analysis and Development in 2020
-- ❤️ In love with QA,Development and Architeture
-- 🌍 Languages: Portuguese PT-BR and English
+- 🔭  I’m currently working as QA Lead at Bradesco;
+- 🌱 I’m currently learning RPA, Machine Learning, Hadoop and Data Science;
+- 🎓 MBA in It Management;
+- ❤️  In love with QA,Development, Architeture, Leadership and Management;
+- 🌍 Languages: Portuguese PT-BR and English;
 
 ### Skills
 
