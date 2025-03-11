@@ -10,7 +10,6 @@ My Name is Andrey!
 I am working with QA since 2017.  
 One thing you should know about me is: I love to learn!
 
-- 🔭 I’m currently working as QA Lead at Bradesco;
 - 🌱 I’m currently learning Leadership, Project Management, Software Engineering;
 - 🎓 MBA in It Management;
 - ❤️  In love with QA,Development, Architeture, Leadership and Management;
